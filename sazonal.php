@@ -117,7 +117,32 @@
 </div>
 <br>
 
+<h1>ESTRELAS GELADAS ! O INVERNO VAI COMEÇAR</h1>
 
+<div class="card text-bg-success mb-3" style="max-width: 900px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="IMG/inverno.jpg" class="img-fluid rounded-start">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h3 class="card-title">Linha de INVERNO</h3>
+        <p class="card-text">
+            Cinnamon Toffee Frappuccino
+            <br>
+            Iced Cinnamon Toffee Latte
+            <br>
+            Cinnamon Toffee Latte
+            <br>
+            Espresso Cinnamon Toffee
+        </p>
+        <button type="button" class="btn btn-secondary">Compre já</button>
+        <p class="card-text"><small class="text-body-secondary">Disponível de 20/03/2023 a 21/06/2023</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
